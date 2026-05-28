@@ -18,21 +18,21 @@
 
 ## 📋 Table of Contents
 
-* [⚡ Before & After](#before-and-after)
-* [🆕 What's New in 4.8](#whats-new-in-48)
-* [✨ Features](#features)
-* [🔄 How It Works](#how-it-works)
-* [🚀 Quick Start](#quick-start)
-* [🎯 The `prompt:` Trigger](#the-prompt-trigger)
-* [📏 The 11 Optimization Rules](#the-11-optimization-rules)
-* [🏗️ Prompt Framework (10 Components)](#prompt-framework-10-components)
-* [🎯 Why Claude Opus 4.8 Specific?](#why-claude-opus-48-specific)
-* [📂 Repository Structure](#repository-structure)
-* [🙏 Credits](#credits)
-* [🤝 Contributing](#contributing)
-* [📄 License](#license)
+* [⚡ Before & After](#-before--after)
+* [🆕 What's New in 4.8](#-whats-new-in-48)
+* [✨ Features](#-features)
+* [🔄 How It Works](#-how-it-works)
+* [🚀 Quick Start](#-quick-start)
+* [🎯 The `prompt:` Trigger](#-the-prompt-trigger)
+* [📏 The 11 Optimization Rules](#-the-11-optimization-rules)
+* [🏗️ Prompt Framework (10 Components)](#prompt-framework)
+* [🎯 Why Claude Opus 4.8 Specific?](#-why-claude-opus-48-specific)
+* [📂 Repository Structure](#-repository-structure)
+* [🙏 Credits](#-credits)
+* [🤝 Contributing](#-contributing)
+* [📄 License](#-license)
 * [⚠️ Disclaimer](#disclaimer)
-* [⭐ Star History](#star-history)
+* [⭐ Star History](#-star-history)
 
 ---
 
@@ -231,7 +231,7 @@ See [`GUIDE.md`](https://github.com/CheswickDEV/claude-opus-4.8-prompt-optimizer
 
 ---
 
-## 🏗️ Prompt Framework (10 Components)
+## 🏗️ Prompt Framework (10 Components) <a id="prompt-framework"></a>
 
 The optimizer draws from 10 structural components when building the optimized prompt. It selects the right subset based on complexity routing.
 
@@ -320,7 +320,7 @@ This project is licensed under the [MIT License](https://github.com/CheswickDEV/
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Disclaimer <a id="disclaimer"></a>
 
 Not affiliated with Anthropic. "Claude" and "Opus" are trademarks of Anthropic PBC.
 
